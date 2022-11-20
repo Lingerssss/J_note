@@ -18,3 +18,4 @@ const formatPrice = parseFloat(props.price).toFixed(2) || 0.0;
 
 <img src="/Users/jiaxi.gong/Library/Application Support/typora-user-images/image-20211130015210940.png" alt="image-20211130015210940" style="zoom:50%;" />
 
+fdjsaiofjdasoij

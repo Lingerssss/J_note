@@ -1,0 +1,3 @@
+UserStateService中的InitService（）方法，
+
+是从数据库PlatformUserState中取出StatusClassName, StatusClassData这两个字段然后转化为Status

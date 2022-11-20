@@ -1,0 +1,1 @@
+IAS Calendar service is one of the microservices that need to be migrated to NET6 under the scope of dotnet migration. 

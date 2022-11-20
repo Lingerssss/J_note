@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "d07231a0527ed1eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7ffe0ea2141317",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "frontEnd/react/JS 格式化数值让其以保留两位小数.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e50564e3aea11971",
+    "type": "split",
+    "children": [
+      {
+        "id": "a074e87cc16ef9ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "867d8f96962eb7e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a0e59ee4d814bfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b54cde0d30d3b80",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4f573e28968a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cd7b926f4103ca1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "frontEnd/react/JS 格式化数值让其以保留两位小数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d7ffe0ea2141317",
+  "lastOpenFiles": [
+    "frontEnd/react/JS 格式化数值让其以保留两位小数.md",
+    "Users/jiaxi.gong/Library/Application.md",
+    "frontEnd/react/How Thana makes a dropdown menu.md",
+    "1. 复杂度.md",
+    "Article/测试.md"
+  ]
+}

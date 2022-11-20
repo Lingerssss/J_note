@@ -29,3 +29,10 @@ Asp.net mvc主要用来基于mvc模式开发网页，Asp.net webapi主要用来�
 ![image-20211217102343076](https://raw.githubusercontent.com/Lingerssss/notePicture/main/image-20211217102343076.png)
 
 Yarn watch
+
+
+
+
+
+
+
